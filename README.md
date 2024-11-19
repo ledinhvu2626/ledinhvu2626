@@ -4,16 +4,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Le Dinh Vu
 ==================================================================================================================================
 
-Game Devolopers
+Game Developers
 ---------------
 
-I'm a fresher to game development currently studying at FPT Polytechic
+I'm a fresher Game Development currently studying at FPT Polytechnics
 
 * 🌍  I'm based in Ho Chi Minh City, Viet Nam
 * ✉️  You can contact me at [ledinhvu2626@gmail.com](mailto:ledinhvu2626@gmail.com)
 * 🧠  I'm learning C#; C++; C; JS; HTML and More
 * 🤝  I'm open to collaborating on Game Project
-* ⚡  I'm a gamer, i have alot of experience in game story, mechanic. FPS, Colony Management is my favourite
+* ⚡  I'm a gamer and have a lot of experience in game stories and mechanics. FPS, Colony Management is my favorite
 
 ### Skills
 
